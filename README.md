@@ -62,6 +62,22 @@ docker-compose up -d
 
 That's it! ✅
 
+# analytics
+
+## PowerShell - Windows
+
+```bash
+mkdir analytics-ytbot
+cd analytics-ytbot
+wget https://git.astralelite.org/AE/ytbot/raw/branch/main/analytics/docker-compose.yml -OutFile docker-compose.yml
+```
+## Linux / Unix 
+
+```bash
+mkdir analytics-ytbot
+cd analytics-ytbot
+wget https://git.astralelite.org/AE/ytbot/raw/branch/main/analytics/docker-compose.yml
+```
 ## Usage
 
 1. Send a YouTube link to your bot
