@@ -17,7 +17,7 @@ Just paste a YouTube link to download high quality videos and audio!
 ## Quick Setup
 
 ```bash
-git clone https://github.com/AstralElite-open-source/ytbot.git
+wget https://git.astralelite.org/AE/ytbot/raw/branch/main/docker-compose.yml
 ```
 
 ### 1. Get Telegram Credentials
