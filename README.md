@@ -16,7 +16,7 @@ Just paste a YouTube link to download high quality videos and audio!
 
 ## Quick Setup
 
-### Window 
+### Window PowerShell
 
 ```bash
 mkdir ytbot
@@ -24,7 +24,7 @@ cd ytbot
 wget https://git.astralelite.org/AE/ytbot/raw/branch/main/docker-compose.yml -OutFile docker-compose.yml
 ```
 
-### Linux / unix
+### Linux / unix 
 
 ```bash
 mkdir ytbot
